@@ -1,0 +1,6 @@
+langchain==0.1.0
+langchain-google-genai
+langchain-community
+google-search-results
+jupyter
+python-dotenv
